@@ -1,0 +1,9 @@
+Download all files and folders.
+
+After downloading everything. Extract the folder to designated location.
+
+After extracting, set up or open the folder in visual studio, or anything coding tools.
+
+After set up.
+
+Just run the index.html file.
